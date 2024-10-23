@@ -1,0 +1,1710 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SafetyDeviceDesc Crc="3404728804" FileFormatVersion="1.9">
+  <AliasDeviceType>
+    <Type>4</Type>
+    <SubType>306</SubType>
+    <VendorId>1683</VendorId>
+  </AliasDeviceType>
+  <SDSID>7</SDSID>
+  <SafetyAliasDevice>
+    <ObjectId>50921477</ObjectId>
+    <LinkingMode>Automatic</LinkingMode>
+    <ConnectionId>7</ConnectionId>
+    <ConnectionMode>master</ConnectionMode>
+    <ConnectionType>FSoE</ConnectionType>
+    <MapDiag>false</MapDiag>
+    <MapInputs>false</MapInputs>
+    <MapOutputs>false</MapOutputs>
+    <MapState>false</MapState>
+    <ModuleFaultIsComErr>false</ModuleFaultIsComErr>
+    <SafeAddress>160</SafeAddress>
+    <Watchdog>100</Watchdog>
+    <ComErrAck Type="Unset" />
+    <Params>
+      <Param Index="5632" SubIndex="0">46</Param>
+      <Param Index="5632" SubIndex="1">08010070</Param>
+      <Param Index="5632" SubIndex="2">01010170</Param>
+      <Param Index="5632" SubIndex="3">01020170</Param>
+      <Param Index="5632" SubIndex="4">01030170</Param>
+      <Param Index="5632" SubIndex="5">01040170</Param>
+      <Param Index="5632" SubIndex="6">01050170</Param>
+      <Param Index="5632" SubIndex="7">01060170</Param>
+      <Param Index="5632" SubIndex="8">01070170</Param>
+      <Param Index="5632" SubIndex="9">01080170</Param>
+      <Param Index="5632" SubIndex="10">01090170</Param>
+      <Param Index="5632" SubIndex="11">010A0170</Param>
+      <Param Index="5632" SubIndex="12">010B0170</Param>
+      <Param Index="5632" SubIndex="13">010C0170</Param>
+      <Param Index="5632" SubIndex="14">010D0170</Param>
+      <Param Index="5632" SubIndex="15">010E0170</Param>
+      <Param Index="5632" SubIndex="16">010F0170</Param>
+      <Param Index="5632" SubIndex="17">01100170</Param>
+      <Param Index="5632" SubIndex="18">10030070</Param>
+      <Param Index="5632" SubIndex="19">01110170</Param>
+      <Param Index="5632" SubIndex="20">01120170</Param>
+      <Param Index="5632" SubIndex="21">01130170</Param>
+      <Param Index="5632" SubIndex="22">01140170</Param>
+      <Param Index="5632" SubIndex="23">01150170</Param>
+      <Param Index="5632" SubIndex="24">01160170</Param>
+      <Param Index="5632" SubIndex="25">01170170</Param>
+      <Param Index="5632" SubIndex="26">01180170</Param>
+      <Param Index="5632" SubIndex="27">01190170</Param>
+      <Param Index="5632" SubIndex="28">011A0170</Param>
+      <Param Index="5632" SubIndex="29">011B0170</Param>
+      <Param Index="5632" SubIndex="30">011C0170</Param>
+      <Param Index="5632" SubIndex="31">011D0170</Param>
+      <Param Index="5632" SubIndex="32">011E0170</Param>
+      <Param Index="5632" SubIndex="33">011F0170</Param>
+      <Param Index="5632" SubIndex="34">01200170</Param>
+      <Param Index="5632" SubIndex="35">10040070</Param>
+      <Param Index="5632" SubIndex="36">01210170</Param>
+      <Param Index="5632" SubIndex="37">01220170</Param>
+      <Param Index="5632" SubIndex="38">01230170</Param>
+      <Param Index="5632" SubIndex="39">01240170</Param>
+      <Param Index="5632" SubIndex="40">01250170</Param>
+      <Param Index="5632" SubIndex="41">01260170</Param>
+      <Param Index="5632" SubIndex="42">01270170</Param>
+      <Param Index="5632" SubIndex="43">01280170</Param>
+      <Param Index="5632" SubIndex="44">01290170</Param>
+      <Param Index="5632" SubIndex="45">012A0170</Param>
+      <Param Index="5632" SubIndex="46">012B0170</Param>
+      <Param Index="5632" SubIndex="47">012C0170</Param>
+      <Param Index="5632" SubIndex="48">012D0170</Param>
+      <Param Index="5632" SubIndex="49">012E0170</Param>
+      <Param Index="5632" SubIndex="50">012F0170</Param>
+      <Param Index="5632" SubIndex="51">01300170</Param>
+      <Param Index="5632" SubIndex="52">10050070</Param>
+      <Param Index="5632" SubIndex="53">01310170</Param>
+      <Param Index="5632" SubIndex="54">01320170</Param>
+      <Param Index="5632" SubIndex="55">01330170</Param>
+      <Param Index="5632" SubIndex="56">01340170</Param>
+      <Param Index="5632" SubIndex="57">01350170</Param>
+      <Param Index="5632" SubIndex="58">01360170</Param>
+      <Param Index="5632" SubIndex="59">01370170</Param>
+      <Param Index="5632" SubIndex="60">01380170</Param>
+      <Param Index="5632" SubIndex="61">01390170</Param>
+      <Param Index="5632" SubIndex="62">013A0170</Param>
+      <Param Index="5632" SubIndex="63">013B0170</Param>
+      <Param Index="5632" SubIndex="64">013C0170</Param>
+      <Param Index="5632" SubIndex="65">013D0170</Param>
+      <Param Index="5632" SubIndex="66">013E0170</Param>
+      <Param Index="5632" SubIndex="67">013F0170</Param>
+      <Param Index="5632" SubIndex="68">01400170</Param>
+      <Param Index="5632" SubIndex="69">10060070</Param>
+      <Param Index="5632" SubIndex="70">10020070</Param>
+      <Param Index="6656" SubIndex="0">46</Param>
+      <Param Index="6656" SubIndex="1">08010060</Param>
+      <Param Index="6656" SubIndex="2">01010160</Param>
+      <Param Index="6656" SubIndex="3">01020160</Param>
+      <Param Index="6656" SubIndex="4">01030160</Param>
+      <Param Index="6656" SubIndex="5">01040160</Param>
+      <Param Index="6656" SubIndex="6">01050160</Param>
+      <Param Index="6656" SubIndex="7">01060160</Param>
+      <Param Index="6656" SubIndex="8">01070160</Param>
+      <Param Index="6656" SubIndex="9">01080160</Param>
+      <Param Index="6656" SubIndex="10">01090160</Param>
+      <Param Index="6656" SubIndex="11">010A0160</Param>
+      <Param Index="6656" SubIndex="12">010B0160</Param>
+      <Param Index="6656" SubIndex="13">010C0160</Param>
+      <Param Index="6656" SubIndex="14">010D0160</Param>
+      <Param Index="6656" SubIndex="15">010E0160</Param>
+      <Param Index="6656" SubIndex="16">010F0160</Param>
+      <Param Index="6656" SubIndex="17">01100160</Param>
+      <Param Index="6656" SubIndex="18">10030060</Param>
+      <Param Index="6656" SubIndex="19">01110160</Param>
+      <Param Index="6656" SubIndex="20">01120160</Param>
+      <Param Index="6656" SubIndex="21">01130160</Param>
+      <Param Index="6656" SubIndex="22">01140160</Param>
+      <Param Index="6656" SubIndex="23">01150160</Param>
+      <Param Index="6656" SubIndex="24">01160160</Param>
+      <Param Index="6656" SubIndex="25">01170160</Param>
+      <Param Index="6656" SubIndex="26">01180160</Param>
+      <Param Index="6656" SubIndex="27">01190160</Param>
+      <Param Index="6656" SubIndex="28">011A0160</Param>
+      <Param Index="6656" SubIndex="29">011B0160</Param>
+      <Param Index="6656" SubIndex="30">011C0160</Param>
+      <Param Index="6656" SubIndex="31">011D0160</Param>
+      <Param Index="6656" SubIndex="32">011E0160</Param>
+      <Param Index="6656" SubIndex="33">011F0160</Param>
+      <Param Index="6656" SubIndex="34">01200160</Param>
+      <Param Index="6656" SubIndex="35">10040060</Param>
+      <Param Index="6656" SubIndex="36">01210160</Param>
+      <Param Index="6656" SubIndex="37">01220160</Param>
+      <Param Index="6656" SubIndex="38">01230160</Param>
+      <Param Index="6656" SubIndex="39">01240160</Param>
+      <Param Index="6656" SubIndex="40">01250160</Param>
+      <Param Index="6656" SubIndex="41">01260160</Param>
+      <Param Index="6656" SubIndex="42">01270160</Param>
+      <Param Index="6656" SubIndex="43">01280160</Param>
+      <Param Index="6656" SubIndex="44">01290160</Param>
+      <Param Index="6656" SubIndex="45">012A0160</Param>
+      <Param Index="6656" SubIndex="46">012B0160</Param>
+      <Param Index="6656" SubIndex="47">012C0160</Param>
+      <Param Index="6656" SubIndex="48">012D0160</Param>
+      <Param Index="6656" SubIndex="49">012E0160</Param>
+      <Param Index="6656" SubIndex="50">012F0160</Param>
+      <Param Index="6656" SubIndex="51">01300160</Param>
+      <Param Index="6656" SubIndex="52">10050060</Param>
+      <Param Index="6656" SubIndex="53">01310160</Param>
+      <Param Index="6656" SubIndex="54">01320160</Param>
+      <Param Index="6656" SubIndex="55">01330160</Param>
+      <Param Index="6656" SubIndex="56">01340160</Param>
+      <Param Index="6656" SubIndex="57">01350160</Param>
+      <Param Index="6656" SubIndex="58">01360160</Param>
+      <Param Index="6656" SubIndex="59">01370160</Param>
+      <Param Index="6656" SubIndex="60">01380160</Param>
+      <Param Index="6656" SubIndex="61">01390160</Param>
+      <Param Index="6656" SubIndex="62">013A0160</Param>
+      <Param Index="6656" SubIndex="63">013B0160</Param>
+      <Param Index="6656" SubIndex="64">013C0160</Param>
+      <Param Index="6656" SubIndex="65">013D0160</Param>
+      <Param Index="6656" SubIndex="66">013E0160</Param>
+      <Param Index="6656" SubIndex="67">013F0160</Param>
+      <Param Index="6656" SubIndex="68">01400160</Param>
+      <Param Index="6656" SubIndex="69">10060060</Param>
+      <Param Index="6656" SubIndex="70">10020060</Param>
+      <Messages>
+        <IO>
+          <Name>FSoE Master Cmd</Name>
+          <Index>28672</Index>
+          <SubIndex>1</SubIndex>
+          <DataType>USINT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>ProtocolData</SafetyType>
+          <BitSize>8</BitSize>
+          <BitOffsMessage>0</BitOffsMessage>
+          <BitOffsData>-1</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 1.1</Name>
+          <Index>28673</Index>
+          <SubIndex>1</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>8</BitOffsMessage>
+          <BitOffsData>0</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 1.2</Name>
+          <Index>28673</Index>
+          <SubIndex>2</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>9</BitOffsMessage>
+          <BitOffsData>1</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 1.3</Name>
+          <Index>28673</Index>
+          <SubIndex>3</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>10</BitOffsMessage>
+          <BitOffsData>2</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 1.4</Name>
+          <Index>28673</Index>
+          <SubIndex>4</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>11</BitOffsMessage>
+          <BitOffsData>3</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 1.5</Name>
+          <Index>28673</Index>
+          <SubIndex>5</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>12</BitOffsMessage>
+          <BitOffsData>4</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 1.6</Name>
+          <Index>28673</Index>
+          <SubIndex>6</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>13</BitOffsMessage>
+          <BitOffsData>5</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 1.7</Name>
+          <Index>28673</Index>
+          <SubIndex>7</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>14</BitOffsMessage>
+          <BitOffsData>6</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 1.8</Name>
+          <Index>28673</Index>
+          <SubIndex>8</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>15</BitOffsMessage>
+          <BitOffsData>7</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 2.1</Name>
+          <Index>28673</Index>
+          <SubIndex>9</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>16</BitOffsMessage>
+          <BitOffsData>8</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 2.2</Name>
+          <Index>28673</Index>
+          <SubIndex>10</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>17</BitOffsMessage>
+          <BitOffsData>9</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 2.3</Name>
+          <Index>28673</Index>
+          <SubIndex>11</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>18</BitOffsMessage>
+          <BitOffsData>10</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 2.4</Name>
+          <Index>28673</Index>
+          <SubIndex>12</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>19</BitOffsMessage>
+          <BitOffsData>11</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 2.5</Name>
+          <Index>28673</Index>
+          <SubIndex>13</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>20</BitOffsMessage>
+          <BitOffsData>12</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 2.6</Name>
+          <Index>28673</Index>
+          <SubIndex>14</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>21</BitOffsMessage>
+          <BitOffsData>13</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 2.7</Name>
+          <Index>28673</Index>
+          <SubIndex>15</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>22</BitOffsMessage>
+          <BitOffsData>14</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 2.8</Name>
+          <Index>28673</Index>
+          <SubIndex>16</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>23</BitOffsMessage>
+          <BitOffsData>15</BitOffsData>
+        </IO>
+        <IO>
+          <Name>FSoE Master CRC_0</Name>
+          <Index>28672</Index>
+          <SubIndex>3</SubIndex>
+          <DataType>UINT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>ProtocolData</SafetyType>
+          <BitSize>16</BitSize>
+          <BitOffsMessage>24</BitOffsMessage>
+          <BitOffsData>-1</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 3.1</Name>
+          <Index>28673</Index>
+          <SubIndex>17</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>40</BitOffsMessage>
+          <BitOffsData>16</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 3.2</Name>
+          <Index>28673</Index>
+          <SubIndex>18</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>41</BitOffsMessage>
+          <BitOffsData>17</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 3.3</Name>
+          <Index>28673</Index>
+          <SubIndex>19</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>42</BitOffsMessage>
+          <BitOffsData>18</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 3.4</Name>
+          <Index>28673</Index>
+          <SubIndex>20</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>43</BitOffsMessage>
+          <BitOffsData>19</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 3.5</Name>
+          <Index>28673</Index>
+          <SubIndex>21</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>44</BitOffsMessage>
+          <BitOffsData>20</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 3.6</Name>
+          <Index>28673</Index>
+          <SubIndex>22</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>45</BitOffsMessage>
+          <BitOffsData>21</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 3.7</Name>
+          <Index>28673</Index>
+          <SubIndex>23</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>46</BitOffsMessage>
+          <BitOffsData>22</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 3.8</Name>
+          <Index>28673</Index>
+          <SubIndex>24</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>47</BitOffsMessage>
+          <BitOffsData>23</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 4.1</Name>
+          <Index>28673</Index>
+          <SubIndex>25</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>48</BitOffsMessage>
+          <BitOffsData>24</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 4.2</Name>
+          <Index>28673</Index>
+          <SubIndex>26</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>49</BitOffsMessage>
+          <BitOffsData>25</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 4.3</Name>
+          <Index>28673</Index>
+          <SubIndex>27</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>50</BitOffsMessage>
+          <BitOffsData>26</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 4.4</Name>
+          <Index>28673</Index>
+          <SubIndex>28</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>51</BitOffsMessage>
+          <BitOffsData>27</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 4.5</Name>
+          <Index>28673</Index>
+          <SubIndex>29</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>52</BitOffsMessage>
+          <BitOffsData>28</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 4.6</Name>
+          <Index>28673</Index>
+          <SubIndex>30</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>53</BitOffsMessage>
+          <BitOffsData>29</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 4.7</Name>
+          <Index>28673</Index>
+          <SubIndex>31</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>54</BitOffsMessage>
+          <BitOffsData>30</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 4.8</Name>
+          <Index>28673</Index>
+          <SubIndex>32</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>55</BitOffsMessage>
+          <BitOffsData>31</BitOffsData>
+        </IO>
+        <IO>
+          <Name>FSoE Master CRC_1</Name>
+          <Index>28672</Index>
+          <SubIndex>4</SubIndex>
+          <DataType>UINT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>ProtocolData</SafetyType>
+          <BitSize>16</BitSize>
+          <BitOffsMessage>56</BitOffsMessage>
+          <BitOffsData>-1</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 5.1</Name>
+          <Index>28673</Index>
+          <SubIndex>33</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>72</BitOffsMessage>
+          <BitOffsData>32</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 5.2</Name>
+          <Index>28673</Index>
+          <SubIndex>34</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>73</BitOffsMessage>
+          <BitOffsData>33</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 5.3</Name>
+          <Index>28673</Index>
+          <SubIndex>35</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>74</BitOffsMessage>
+          <BitOffsData>34</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 5.4</Name>
+          <Index>28673</Index>
+          <SubIndex>36</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>75</BitOffsMessage>
+          <BitOffsData>35</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 5.5</Name>
+          <Index>28673</Index>
+          <SubIndex>37</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>76</BitOffsMessage>
+          <BitOffsData>36</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 5.6</Name>
+          <Index>28673</Index>
+          <SubIndex>38</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>77</BitOffsMessage>
+          <BitOffsData>37</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 5.7</Name>
+          <Index>28673</Index>
+          <SubIndex>39</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>78</BitOffsMessage>
+          <BitOffsData>38</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 5.8</Name>
+          <Index>28673</Index>
+          <SubIndex>40</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>79</BitOffsMessage>
+          <BitOffsData>39</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 6.1</Name>
+          <Index>28673</Index>
+          <SubIndex>41</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>80</BitOffsMessage>
+          <BitOffsData>40</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 6.2</Name>
+          <Index>28673</Index>
+          <SubIndex>42</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>81</BitOffsMessage>
+          <BitOffsData>41</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 6.3</Name>
+          <Index>28673</Index>
+          <SubIndex>43</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>82</BitOffsMessage>
+          <BitOffsData>42</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 6.4</Name>
+          <Index>28673</Index>
+          <SubIndex>44</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>83</BitOffsMessage>
+          <BitOffsData>43</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 6.5</Name>
+          <Index>28673</Index>
+          <SubIndex>45</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>84</BitOffsMessage>
+          <BitOffsData>44</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 6.6</Name>
+          <Index>28673</Index>
+          <SubIndex>46</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>85</BitOffsMessage>
+          <BitOffsData>45</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 6.7</Name>
+          <Index>28673</Index>
+          <SubIndex>47</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>86</BitOffsMessage>
+          <BitOffsData>46</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 6.8</Name>
+          <Index>28673</Index>
+          <SubIndex>48</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>87</BitOffsMessage>
+          <BitOffsData>47</BitOffsData>
+        </IO>
+        <IO>
+          <Name>FSoE Master CRC_2</Name>
+          <Index>28672</Index>
+          <SubIndex>5</SubIndex>
+          <DataType>UINT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>ProtocolData</SafetyType>
+          <BitSize>16</BitSize>
+          <BitOffsMessage>88</BitOffsMessage>
+          <BitOffsData>-1</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 7.1</Name>
+          <Index>28673</Index>
+          <SubIndex>49</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>104</BitOffsMessage>
+          <BitOffsData>48</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 7.2</Name>
+          <Index>28673</Index>
+          <SubIndex>50</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>105</BitOffsMessage>
+          <BitOffsData>49</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 7.3</Name>
+          <Index>28673</Index>
+          <SubIndex>51</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>106</BitOffsMessage>
+          <BitOffsData>50</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 7.4</Name>
+          <Index>28673</Index>
+          <SubIndex>52</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>107</BitOffsMessage>
+          <BitOffsData>51</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 7.5</Name>
+          <Index>28673</Index>
+          <SubIndex>53</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>108</BitOffsMessage>
+          <BitOffsData>52</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 7.6</Name>
+          <Index>28673</Index>
+          <SubIndex>54</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>109</BitOffsMessage>
+          <BitOffsData>53</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 7.7</Name>
+          <Index>28673</Index>
+          <SubIndex>55</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>110</BitOffsMessage>
+          <BitOffsData>54</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 7.8</Name>
+          <Index>28673</Index>
+          <SubIndex>56</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>111</BitOffsMessage>
+          <BitOffsData>55</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 8.1</Name>
+          <Index>28673</Index>
+          <SubIndex>57</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>112</BitOffsMessage>
+          <BitOffsData>56</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 8.2</Name>
+          <Index>28673</Index>
+          <SubIndex>58</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>113</BitOffsMessage>
+          <BitOffsData>57</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 8.3</Name>
+          <Index>28673</Index>
+          <SubIndex>59</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>114</BitOffsMessage>
+          <BitOffsData>58</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 8.4</Name>
+          <Index>28673</Index>
+          <SubIndex>60</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>115</BitOffsMessage>
+          <BitOffsData>59</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 8.5</Name>
+          <Index>28673</Index>
+          <SubIndex>61</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>116</BitOffsMessage>
+          <BitOffsData>60</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 8.6</Name>
+          <Index>28673</Index>
+          <SubIndex>62</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>117</BitOffsMessage>
+          <BitOffsData>61</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 8.7</Name>
+          <Index>28673</Index>
+          <SubIndex>63</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>118</BitOffsMessage>
+          <BitOffsData>62</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Output Bit 8.8</Name>
+          <Index>28673</Index>
+          <SubIndex>64</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>119</BitOffsMessage>
+          <BitOffsData>63</BitOffsData>
+        </IO>
+        <IO>
+          <Name>FSoE Master CRC_3</Name>
+          <Index>28672</Index>
+          <SubIndex>6</SubIndex>
+          <DataType>UINT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>ProtocolData</SafetyType>
+          <BitSize>16</BitSize>
+          <BitOffsMessage>120</BitOffsMessage>
+          <BitOffsData>-1</BitOffsData>
+        </IO>
+        <IO>
+          <Name>FSoE Master ConnID</Name>
+          <Index>28672</Index>
+          <SubIndex>2</SubIndex>
+          <DataType>UINT</DataType>
+          <Direction>Out</Direction>
+          <SafetyType>ProtocolData</SafetyType>
+          <BitSize>16</BitSize>
+          <BitOffsMessage>136</BitOffsMessage>
+          <BitOffsData>-1</BitOffsData>
+        </IO>
+        <IO>
+          <Name>FSoE Slave Cmd</Name>
+          <Index>24576</Index>
+          <SubIndex>1</SubIndex>
+          <DataType>USINT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>ProtocolData</SafetyType>
+          <BitSize>8</BitSize>
+          <BitOffsMessage>0</BitOffsMessage>
+          <BitOffsData>-1</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 1.1</Name>
+          <Index>24577</Index>
+          <SubIndex>1</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>8</BitOffsMessage>
+          <BitOffsData>0</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 1.2</Name>
+          <Index>24577</Index>
+          <SubIndex>2</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>9</BitOffsMessage>
+          <BitOffsData>1</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 1.3</Name>
+          <Index>24577</Index>
+          <SubIndex>3</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>10</BitOffsMessage>
+          <BitOffsData>2</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 1.4</Name>
+          <Index>24577</Index>
+          <SubIndex>4</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>11</BitOffsMessage>
+          <BitOffsData>3</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 1.5</Name>
+          <Index>24577</Index>
+          <SubIndex>5</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>12</BitOffsMessage>
+          <BitOffsData>4</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 1.6</Name>
+          <Index>24577</Index>
+          <SubIndex>6</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>13</BitOffsMessage>
+          <BitOffsData>5</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 1.7</Name>
+          <Index>24577</Index>
+          <SubIndex>7</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>14</BitOffsMessage>
+          <BitOffsData>6</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 1.8</Name>
+          <Index>24577</Index>
+          <SubIndex>8</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>15</BitOffsMessage>
+          <BitOffsData>7</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 2.1</Name>
+          <Index>24577</Index>
+          <SubIndex>9</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>16</BitOffsMessage>
+          <BitOffsData>8</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 2.2</Name>
+          <Index>24577</Index>
+          <SubIndex>10</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>17</BitOffsMessage>
+          <BitOffsData>9</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 2.3</Name>
+          <Index>24577</Index>
+          <SubIndex>11</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>18</BitOffsMessage>
+          <BitOffsData>10</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 2.4</Name>
+          <Index>24577</Index>
+          <SubIndex>12</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>19</BitOffsMessage>
+          <BitOffsData>11</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 2.5</Name>
+          <Index>24577</Index>
+          <SubIndex>13</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>20</BitOffsMessage>
+          <BitOffsData>12</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 2.6</Name>
+          <Index>24577</Index>
+          <SubIndex>14</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>21</BitOffsMessage>
+          <BitOffsData>13</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 2.7</Name>
+          <Index>24577</Index>
+          <SubIndex>15</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>22</BitOffsMessage>
+          <BitOffsData>14</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 2.8</Name>
+          <Index>24577</Index>
+          <SubIndex>16</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>23</BitOffsMessage>
+          <BitOffsData>15</BitOffsData>
+        </IO>
+        <IO>
+          <Name>FSoE Slave CRC_0</Name>
+          <Index>24576</Index>
+          <SubIndex>3</SubIndex>
+          <DataType>UINT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>ProtocolData</SafetyType>
+          <BitSize>16</BitSize>
+          <BitOffsMessage>24</BitOffsMessage>
+          <BitOffsData>-1</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 3.1</Name>
+          <Index>24577</Index>
+          <SubIndex>17</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>40</BitOffsMessage>
+          <BitOffsData>16</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 3.2</Name>
+          <Index>24577</Index>
+          <SubIndex>18</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>41</BitOffsMessage>
+          <BitOffsData>17</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 3.3</Name>
+          <Index>24577</Index>
+          <SubIndex>19</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>42</BitOffsMessage>
+          <BitOffsData>18</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 3.4</Name>
+          <Index>24577</Index>
+          <SubIndex>20</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>43</BitOffsMessage>
+          <BitOffsData>19</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 3.5</Name>
+          <Index>24577</Index>
+          <SubIndex>21</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>44</BitOffsMessage>
+          <BitOffsData>20</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 3.6</Name>
+          <Index>24577</Index>
+          <SubIndex>22</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>45</BitOffsMessage>
+          <BitOffsData>21</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 3.7</Name>
+          <Index>24577</Index>
+          <SubIndex>23</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>46</BitOffsMessage>
+          <BitOffsData>22</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 3.8</Name>
+          <Index>24577</Index>
+          <SubIndex>24</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>47</BitOffsMessage>
+          <BitOffsData>23</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 4.1</Name>
+          <Index>24577</Index>
+          <SubIndex>25</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>48</BitOffsMessage>
+          <BitOffsData>24</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 4.2</Name>
+          <Index>24577</Index>
+          <SubIndex>26</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>49</BitOffsMessage>
+          <BitOffsData>25</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 4.3</Name>
+          <Index>24577</Index>
+          <SubIndex>27</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>50</BitOffsMessage>
+          <BitOffsData>26</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 4.4</Name>
+          <Index>24577</Index>
+          <SubIndex>28</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>51</BitOffsMessage>
+          <BitOffsData>27</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 4.5</Name>
+          <Index>24577</Index>
+          <SubIndex>29</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>52</BitOffsMessage>
+          <BitOffsData>28</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 4.6</Name>
+          <Index>24577</Index>
+          <SubIndex>30</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>53</BitOffsMessage>
+          <BitOffsData>29</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 4.7</Name>
+          <Index>24577</Index>
+          <SubIndex>31</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>54</BitOffsMessage>
+          <BitOffsData>30</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 4.8</Name>
+          <Index>24577</Index>
+          <SubIndex>32</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>55</BitOffsMessage>
+          <BitOffsData>31</BitOffsData>
+        </IO>
+        <IO>
+          <Name>FSoE Slave CRC_1</Name>
+          <Index>24576</Index>
+          <SubIndex>4</SubIndex>
+          <DataType>UINT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>ProtocolData</SafetyType>
+          <BitSize>16</BitSize>
+          <BitOffsMessage>56</BitOffsMessage>
+          <BitOffsData>-1</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 5.1</Name>
+          <Index>24577</Index>
+          <SubIndex>33</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>72</BitOffsMessage>
+          <BitOffsData>32</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 5.2</Name>
+          <Index>24577</Index>
+          <SubIndex>34</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>73</BitOffsMessage>
+          <BitOffsData>33</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 5.3</Name>
+          <Index>24577</Index>
+          <SubIndex>35</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>74</BitOffsMessage>
+          <BitOffsData>34</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 5.4</Name>
+          <Index>24577</Index>
+          <SubIndex>36</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>75</BitOffsMessage>
+          <BitOffsData>35</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 5.5</Name>
+          <Index>24577</Index>
+          <SubIndex>37</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>76</BitOffsMessage>
+          <BitOffsData>36</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 5.6</Name>
+          <Index>24577</Index>
+          <SubIndex>38</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>77</BitOffsMessage>
+          <BitOffsData>37</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 5.7</Name>
+          <Index>24577</Index>
+          <SubIndex>39</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>78</BitOffsMessage>
+          <BitOffsData>38</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 5.8</Name>
+          <Index>24577</Index>
+          <SubIndex>40</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>79</BitOffsMessage>
+          <BitOffsData>39</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 6.1</Name>
+          <Index>24577</Index>
+          <SubIndex>41</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>80</BitOffsMessage>
+          <BitOffsData>40</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 6.2</Name>
+          <Index>24577</Index>
+          <SubIndex>42</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>81</BitOffsMessage>
+          <BitOffsData>41</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 6.3</Name>
+          <Index>24577</Index>
+          <SubIndex>43</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>82</BitOffsMessage>
+          <BitOffsData>42</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 6.4</Name>
+          <Index>24577</Index>
+          <SubIndex>44</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>83</BitOffsMessage>
+          <BitOffsData>43</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 6.5</Name>
+          <Index>24577</Index>
+          <SubIndex>45</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>84</BitOffsMessage>
+          <BitOffsData>44</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 6.6</Name>
+          <Index>24577</Index>
+          <SubIndex>46</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>85</BitOffsMessage>
+          <BitOffsData>45</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 6.7</Name>
+          <Index>24577</Index>
+          <SubIndex>47</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>86</BitOffsMessage>
+          <BitOffsData>46</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 6.8</Name>
+          <Index>24577</Index>
+          <SubIndex>48</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>87</BitOffsMessage>
+          <BitOffsData>47</BitOffsData>
+        </IO>
+        <IO>
+          <Name>FSoE Slave CRC_2</Name>
+          <Index>24576</Index>
+          <SubIndex>5</SubIndex>
+          <DataType>UINT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>ProtocolData</SafetyType>
+          <BitSize>16</BitSize>
+          <BitOffsMessage>88</BitOffsMessage>
+          <BitOffsData>-1</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 7.1</Name>
+          <Index>24577</Index>
+          <SubIndex>49</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>104</BitOffsMessage>
+          <BitOffsData>48</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 7.2</Name>
+          <Index>24577</Index>
+          <SubIndex>50</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>105</BitOffsMessage>
+          <BitOffsData>49</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 7.3</Name>
+          <Index>24577</Index>
+          <SubIndex>51</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>106</BitOffsMessage>
+          <BitOffsData>50</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 7.4</Name>
+          <Index>24577</Index>
+          <SubIndex>52</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>107</BitOffsMessage>
+          <BitOffsData>51</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 7.5</Name>
+          <Index>24577</Index>
+          <SubIndex>53</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>108</BitOffsMessage>
+          <BitOffsData>52</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 7.6</Name>
+          <Index>24577</Index>
+          <SubIndex>54</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>109</BitOffsMessage>
+          <BitOffsData>53</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 7.7</Name>
+          <Index>24577</Index>
+          <SubIndex>55</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>110</BitOffsMessage>
+          <BitOffsData>54</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 7.8</Name>
+          <Index>24577</Index>
+          <SubIndex>56</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>111</BitOffsMessage>
+          <BitOffsData>55</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 8.1</Name>
+          <Index>24577</Index>
+          <SubIndex>57</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>112</BitOffsMessage>
+          <BitOffsData>56</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 8.2</Name>
+          <Index>24577</Index>
+          <SubIndex>58</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>113</BitOffsMessage>
+          <BitOffsData>57</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 8.3</Name>
+          <Index>24577</Index>
+          <SubIndex>59</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>114</BitOffsMessage>
+          <BitOffsData>58</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 8.4</Name>
+          <Index>24577</Index>
+          <SubIndex>60</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>115</BitOffsMessage>
+          <BitOffsData>59</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 8.5</Name>
+          <Index>24577</Index>
+          <SubIndex>61</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>116</BitOffsMessage>
+          <BitOffsData>60</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 8.6</Name>
+          <Index>24577</Index>
+          <SubIndex>62</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>117</BitOffsMessage>
+          <BitOffsData>61</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 8.7</Name>
+          <Index>24577</Index>
+          <SubIndex>63</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>118</BitOffsMessage>
+          <BitOffsData>62</BitOffsData>
+        </IO>
+        <IO>
+          <Name>Input Bit 8.8</Name>
+          <Index>24577</Index>
+          <SubIndex>64</SubIndex>
+          <DataType>BIT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>SafetySil3</SafetyType>
+          <BitSize>1</BitSize>
+          <BitOffsMessage>119</BitOffsMessage>
+          <BitOffsData>63</BitOffsData>
+        </IO>
+        <IO>
+          <Name>FSoE Slave CRC_3</Name>
+          <Index>24576</Index>
+          <SubIndex>6</SubIndex>
+          <DataType>UINT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>ProtocolData</SafetyType>
+          <BitSize>16</BitSize>
+          <BitOffsMessage>120</BitOffsMessage>
+          <BitOffsData>-1</BitOffsData>
+        </IO>
+        <IO>
+          <Name>FSoE Slave ConnID</Name>
+          <Index>24576</Index>
+          <SubIndex>2</SubIndex>
+          <DataType>UINT</DataType>
+          <Direction>In</Direction>
+          <SafetyType>ProtocolData</SafetyType>
+          <BitSize>16</BitSize>
+          <BitOffsMessage>136</BitOffsMessage>
+          <BitOffsData>-1</BitOffsData>
+        </IO>
+      </Messages>
+    </Params>
+  </SafetyAliasDevice>
+</SafetyDeviceDesc>
